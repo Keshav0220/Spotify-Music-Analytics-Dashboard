@@ -61,7 +61,7 @@ Spotify dataset containing:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Spotify Music Analytics Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
