@@ -1,4 +1,4 @@
-# 🎧 Spotify Music Analytics Dashboard
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/709822fd-2dd3-4c15-9a0a-933b39925dc5" /># 🎧 Spotify Music Analytics Dashboard
 
 ## 📊 Overview
 An interactive **Power BI dashboard** analyzing Spotify music data to uncover trends in **popularity, energy, danceability, and genre distribution**.
@@ -48,7 +48,7 @@ Spotify dataset containing:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Spotify Music Analytics Dashboard.png)
+
 
 ---
 
