@@ -1,24 +1,37 @@
-<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/709822fd-2dd3-4c15-9a0a-933b39925dc5" /># 🎧 Spotify Music Analytics Dashboard
+# 🎧 Spotify Music Analytics Dashboard
+
+🚀 Built an interactive Power BI dashboard to analyze Spotify music trends and uncover actionable insights.
+
+---
 
 ## 📊 Overview
-An interactive **Power BI dashboard** analyzing Spotify music data to uncover trends in **popularity, energy, danceability, and genre distribution**.
+This project presents an interactive **Power BI dashboard** analyzing Spotify music data to uncover trends in **popularity, energy, danceability, and genre distribution**.
 
-This project demonstrates **data cleaning, analysis, and visualization skills** using real-world data.
+It demonstrates strong skills in **data cleaning, analysis, and visualization using real-world data**.
+
+---
+
+## ⭐ Highlights
+- Real-world Spotify dataset analysis  
+- Business-focused insights  
+- Clean and modern dashboard design  
+- Interactive visual exploration  
 
 ---
 
 ## 🚀 Key Features
-✔️ KPI Metrics:
-- Total Tracks: 114K  
-- Avg Popularity: 33.24  
-- Avg Energy: 0.64  
-- Avg Danceability: 0.57  
 
-✔️ Visual Analysis:
+### 📌 KPI Metrics
+- Total Tracks: **114K**  
+- Avg Popularity: **33.24**  
+- Avg Energy: **0.64**  
+- Avg Danceability: **0.57**  
+
+### 📊 Visual Analysis
 - Top Artists by track count  
-- Genre distribution  
+- Genre distribution (donut chart)  
 - Popularity vs Energy correlation  
-- Acousticness vs Energy trends  
+- Acousticness vs Energy relationship  
 
 ---
 
@@ -28,7 +41,7 @@ This project demonstrates **data cleaning, analysis, and visualization skills** 
 - Danceable songs are generally more popular  
 - Acoustic tracks maintain consistent but moderate popularity  
 - Most tracks are **vocal-based (low instrumentalness)**  
-- Loudness and energy show strong correlation  
+- Loudness and energy show strong positive correlation  
 
 ---
 
@@ -48,12 +61,12 @@ Spotify dataset containing:
 ---
 
 ## 📸 Dashboard Preview
-Spotify Music Analytics Dashboard.png
+![Dashboard](Spotify Music Analytics Dashboard.png)
 
 ---
 
 ## 🎯 Project Objective
-To analyze music trends and deliver **data-driven insights** that can help understand listener preferences and improve decision-making.
+To analyze music trends and deliver **data-driven insights** that help understand listener preferences and support better decision-making.
 
 ---
 
@@ -63,4 +76,4 @@ To analyze music trends and deliver **data-driven insights** that can help under
 
 ---
 
-⭐ If you like this project, feel free to star the repository!
+⭐ If you like this project, consider giving it a star!
