@@ -48,7 +48,7 @@ Spotify dataset containing:
 ---
 
 ## 📸 Dashboard Preview
-
+Spotify Music Analytics Dashboard.png
 
 ---
 
